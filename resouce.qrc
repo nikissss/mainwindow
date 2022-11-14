@@ -1,16 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>images/back.png</file>
-        <file>images/flapp.png</file>
-        <file>images/flapp1.png</file>
-        <file>images/flapp2.png</file>
-        <file>images/flappdown.png</file>
-        <file>images/flappupp.png</file>
-        <file>images/ground.png</file>
-        <file>images/pillar.png</file>
-        <file>images/gameover.png</file>
-        <file>images/background.png</file>
-        <file>images/backgrounf.jfif</file>
         <file>../../../Downloads/possiblebird.png</file>
         <file>../../../Downloads/background3.jpg</file>
         <file>../../../Downloads/background2.png</file>
